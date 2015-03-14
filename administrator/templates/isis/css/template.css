@@ -7149,12 +7149,13 @@ body .navbar-fixed-top {
 }
 .container-logo {
 	float: right;
+	height: 100%;
 	text-align: right;
 }
 .logo {
-	width: 100%;
 	max-width: 143px;
 	height: auto;
+	max-height:100%;
 }
 .page-title {
 	color: white;
